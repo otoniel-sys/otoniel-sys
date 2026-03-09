@@ -34,16 +34,8 @@ Utilizo a tecnologia para converter processos complexos em fluxos automatizados 
 
 ---
 
-## 📊 Estatísticas de Engenharia
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=otoniel-sys&show_icons=true&theme=radical&include_all_commits=true" />
+## 📊 Estatísticas 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=otoniel-sys&layout=compact&theme=radical&langs_count=6" />
-</p>
-
-## 🏆 Conquistas de Desenvolvedor
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=otoniel-sys&theme=radical&column=7&margin-w=15" />
 </p>
 
 ---
